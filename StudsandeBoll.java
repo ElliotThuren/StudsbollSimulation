@@ -1,3 +1,5 @@
 public class StudsandeBoll {
-    blablabla
+    public static void main(String[] args) {
+
+    }
 }
